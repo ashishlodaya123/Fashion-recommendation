@@ -20,6 +20,14 @@ The system consists of several modular components:
 5. **Compatibility Validation**: Refines recommendations using cGANs.
 6. **Output and Visualization Layer**: Delivers detailed outfit suggestions with high-resolution visuals.
 
+### Architectural Diagram
+
+Below is the system's architectural diagram, which illustrates the workflow from user interaction to generating personalized outfit recommendations:
+
+![Architectural Diagram](Diagram-2.png)
+
+> *Replace `path/to/architectural-diagram.png` with the actual path to your architectural diagram image file.*
+
 ## Methodology
 
 ### Dataset
@@ -41,6 +49,21 @@ The system is built on a curated fashion dataset with metadata including dominan
 
 The system was tested on diverse user inputs, including specific occasions and colors, achieving superior performance compared to existing models in the domain.
 
+### Sample Output Images
+
+Here are some examples of the system's output:
+
+1. **Party Outfit with Blue Color Preference:**
+   ![Casual Outfit](img1.png)
+
+2. **Casual Outfit with Blue Color Preference:**
+   ![Party Outfit](img2.png)
+
+3. **Office Outfit with Black Color Preference:**
+   ![Office Outfit](img3.png)
+
+> *Replace the paths (`path/to/...`) with the actual paths to your output image files.*
+
 ## Future Directions
 
 - Expand the dataset for broader inclusivity and cultural representation.
@@ -49,9 +72,8 @@ The system was tested on diverse user inputs, including specific occasions and c
 
 ## Authors
 
-- Narasimha Shastry B K, Aditi Ponkshe, Ashish Lodaya,Anjana Bharamnaikar 
+- Narasimha Shastry B K, Aditi Ponkshe, Ashish Lodaya, Anjana Bharamnaikar 
 - **Affiliation**: KLE Technological University, Hubballi, India
-
 
 ## License
 
