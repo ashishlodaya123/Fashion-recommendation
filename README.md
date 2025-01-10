@@ -26,14 +26,14 @@ Below is the system's architectural diagram, which illustrates the workflow from
 
 ![Architectural Diagram](Diagram-2.png)
 
-> *Replace `path/to/architectural-diagram.png` with the actual path to your architectural diagram image file.*
-
 ## Methodology
 
 ### Dataset
+
 The system is built on a curated fashion dataset with metadata including dominant colors, categories, and occasions.
 
 ### Key Techniques
+
 - **Dominant Color Extraction**: K-means clustering identifies primary colors in images.
 - **Color Matching**: Euclidean distance ensures precise alignment with user preferences.
 - **Outfit Validation**: cGANs generate and verify aesthetically coherent combinations.
@@ -62,8 +62,6 @@ Here are some examples of the system's output:
 3. **Office Outfit with Black Color Preference:**
    ![Office Outfit](img3.png)
 
-> *Replace the paths (`path/to/...`) with the actual paths to your output image files.*
-
 ## Future Directions
 
 - Expand the dataset for broader inclusivity and cultural representation.
@@ -72,7 +70,7 @@ Here are some examples of the system's output:
 
 ## Authors
 
-- Narasimha Shastry B K, Aditi Ponkshe, Ashish Lodaya, Anjana Bharamnaikar 
+- Narasimha Shastry B K, Aditi Ponkshe, Ashish Lodaya, Anjana Bharamnaikar
 - **Affiliation**: KLE Technological University, Hubballi, India
 
 ## License
