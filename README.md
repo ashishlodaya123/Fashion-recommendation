@@ -30,7 +30,7 @@ Below is the system's architectural diagram, which illustrates the workflow from
 
 ### Dataset
 
-The system is built on a curated fashion dataset with metadata including dominant colors, categories, and occasions.
+The system is built on a curated fashion dataset from polyvore with metadata including compatibility.
 
 ### Key Techniques
 
